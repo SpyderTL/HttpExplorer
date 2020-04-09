@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HttpExplorer
 {
-	public partial class Form1 : Form
+	public partial class ExplorerForm : Form
 	{
-		public Form1()
+		public ExplorerForm()
 		{
 			InitializeComponent();
 		}
